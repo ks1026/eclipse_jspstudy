@@ -16,5 +16,4 @@
 <body bgcolor="yellow">
 	<h1>JSP주석을 확인하는 예제</h1>
 	<h1>merge 연습중</h1>
-</body>
 </html>
